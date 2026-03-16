@@ -1,2 +1,2 @@
 # ManiRuthvik.Gadakari
-software developer
+
